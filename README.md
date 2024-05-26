@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 - **Frameworks e Bibliotecas:** React, Node.js
 - **Bancos de Dados:** MySQL
 - **Ferramentas de Contêiner:** Docker
-- **Outras Habilidades:** HTML, CSS, JavaScript, Git
+- **Outras Habilidades:** HTML, CSS, JavaScript, Git, HubSpot, VBA
 
 ## Contato
 
