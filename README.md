@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]
+# Olá, eu sou Marcelo de Freitas
 
 ## Sobre Mim
 
@@ -14,7 +14,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 
 ## Contato
 
-- LinkedIn: [Seu Perfil no LinkedIn](link para o LinkedIn)
+- LinkedIn: (https://www.linkedin.com/in/marcelo-de-freitas-24a90b196/)]
 - Email: seuemail@example.com
 
 ## Contribuições
