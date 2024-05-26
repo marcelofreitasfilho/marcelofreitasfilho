@@ -14,7 +14,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 
 ## Contato
 
-- LinkedIn: (https://www.linkedin.com/in/marcelo-de-freitas-24a90b196/)]
+- LinkedIn: [https://www.linkedin.com/in/marcelo-de-freitas-24a90b196/)]](https://www.linkedin.com/in/marcelo-de-freitas-24a90b196/)
 - Email: seuemail@example.com
 
 ## Contribuições
