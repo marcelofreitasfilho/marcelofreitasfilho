@@ -15,13 +15,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/marcelo-de-freitas-24a90b196/)]](https://www.linkedin.com/in/marcelo-de-freitas-24a90b196/
-- Email: seuemail@example.com
+- Email: marcelodefreitasfilho03@gmail.com
 
-## Contribuições
-
-Contribuições e feedbacks são sempre bem-vindos! Sinta-se à vontade para abrir uma issue ou enviar um pull request em meus repositórios.
-
-## Agradecimentos
-
-Agradeço por visitar meu perfil. Espero que encontre algo interessante por aqui!
 
