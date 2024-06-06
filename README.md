@@ -1,20 +1,13 @@
-# Olá, eu sou Marcelo de Freitas
+Hello, I'm Marcelo de Freitas
+About Me
+I am a passionate developer dedicated to creating innovative and efficient solutions. With extensive experience in full-stack web development, I have strong expertise in Python, React, Node.js, MySQL, and Docker. I am always eager to learn new technologies and continuously improve my skills.
 
-## Sobre Mim
-
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em desenvolvimento web full-stack, com conhecimentos sólidos em Python, React, Node.js, MySQL e Docker. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
-
-## Habilidades
-
-- **Linguagens de Programação:** Python, JavaScript, TypeScript
-- **Frameworks e Bibliotecas:** React, Node.js
-- **Bancos de Dados:** MySQL
-- **Ferramentas de Contêiner:** Docker
-- **Outras Habilidades:** HTML, CSS, JavaScript, Git, HubSpot, VBA
-
-## Contato
-
-- LinkedIn: https://www.linkedin.com/in/marcelo-de-freitas-24a90b196/
-- Email: marcelodefreitasfilho03@gmail.com
-
-
+Skills
+Programming Languages: Python, JavaScript, TypeScript
+Frameworks and Libraries: React, Node.js
+Databases: MySQL
+Container Tools: Docker
+Additional Skills: HTML, CSS, JavaScript, Git, HubSpot, VBA
+Contact
+LinkedIn: Marcelo de Freitas
+Email: marcelodefreitasfilho03@gmail.com
